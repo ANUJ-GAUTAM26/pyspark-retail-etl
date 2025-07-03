@@ -42,7 +42,10 @@ This project demonstrates a complete ETL (Extract → Transform → Load) pipeli
 | ---- | ----------- |
 |      |             |
 
-| [`spark.ipynb`](spark.ipynb)                                                                            | Google Colab notebook containing the full ETL pipeline |
+|   |
+| - |
+
+| [`pyspark_retail_etl.ipynb`](pyspark_retail_etl.ipynb)                                                  | Google Colab notebook containing the full ETL pipeline |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | [`retail_etl.db`](https://drive.google.com/drive/folders/12k2ccx8qcjTa0mELxJLGCRLQz0_Bm8P_?usp=sharing) | Final SQLite database hosted on Google Drive           |
 
@@ -53,7 +56,7 @@ This project demonstrates a complete ETL (Extract → Transform → Load) pipeli
 ### 1. Run the notebook in Google Colab
 
 ```bash
-Open spark.ipynb in Google Colab and execute all cells
+Open pyspark_retail_etl.ipynb in Google Colab and execute all cells
 ```
 
 ### 2. View the final data
@@ -107,4 +110,3 @@ If you have feedback or suggestions, feel free to connect with me on [LinkedIn](
 ---
 
 **#DataEngineering #ETL #PySpark #SQL #SQLite #GoogleColab #PortfolioProject**
-
