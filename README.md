@@ -1,7 +1,5 @@
 # 📓 Online Retail II ETL Project with PySpark & SQLite
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anujgautam/retail-etl/blob/main/pyspark_retail_etl.ipynb)
-
 This project demonstrates a complete ETL (Extract → Transform → Load) pipeline built using PySpark, Spark SQL, and SQLite, all executed within Google Colab.
 
 ## 🚀 Overview
@@ -33,7 +31,7 @@ This project demonstrates a complete ETL (Extract → Transform → Load) pipeli
 ### 3. Load
 
 * Converted final Spark DataFrame to pandas
-* Saved to SQLite as a table: retail\_sales
+* Saved to SQLite as a table: retail_sales
 * Final .db file uploaded to [Google Drive](https://drive.google.com/drive/folders/12k2ccx8qcjTa0mELxJLGCRLQz0_Bm8P_?usp=sharing) for sharing
 
 ---
@@ -47,9 +45,9 @@ This project demonstrates a complete ETL (Extract → Transform → Load) pipeli
 |   |
 | - |
 
-| [`pyspark_retail_etl.ipynb`](https://github.com/anujgautam/retail-etl/blob/main/pyspark_retail_etl.ipynb) | Google Colab notebook containing the full ETL pipeline |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [`retail_etl.db`](https://drive.google.com/drive/folders/12k2ccx8qcjTa0mELxJLGCRLQz0_Bm8P_?usp=sharing)   | Final SQLite database hosted on Google Drive           |
+| [`pyspark_retail_etl.ipynb`](https://colab.research.google.com/github/anujgautam/retail-etl/blob/main/pyspark_retail_etl.ipynb) | Google Colab notebook containing the full ETL pipeline |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [`retail_etl.db`](https://drive.google.com/drive/folders/12k2ccx8qcjTa0mELxJLGCRLQz0_Bm8P_?usp=sharing)                         | Final SQLite database hosted on Google Drive           |
 
 ---
 
